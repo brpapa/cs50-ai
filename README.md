@@ -16,8 +16,8 @@ Youtube demo: https://youtu.be/Wy-XiPI1OCM
 
 ### 0.b. Tic tac toe
 
-Play tic-tac-toe against an AI that to plays optimally.
-AI concept: Minimax algorithm.
+Play tic-tac-toe against an AI that plays optimally.
+AI concept: Minimax Algorithm.
 
 <!-- Project code: -->
 Youtube demo: https://youtu.be/W979_duHrC8
@@ -29,7 +29,12 @@ Deductive reasoning.
 ### 1.a. Knights
 
 A program to solve logic puzzles.
-AI concept: Propositional logic.
+AI concept: Propositional Logic.
 
 <!-- Project code: -->
 Youtube demo: https://youtu.be/GzSLLLYX2U0
+
+### 1.b. Minesweeper
+
+Play minesweeper or let the AI play for you.
+AI concept: Propositional Logic.
