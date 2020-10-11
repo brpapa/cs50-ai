@@ -2,39 +2,51 @@
 
 My assignments for CS50's Introduction to Artificial Intelligence with Python.
 
-## 0. Search
+## Projects index
 
-Search algorithms. 
-
-### 0.a. Degrees
-
-Discover it how many "degress of separation" apart two actors are.
-AI concept: Breadth First Search.
-
-<!-- Project code: -->
-Youtube demo: https://youtu.be/Wy-XiPI1OCM
-
-### 0.b. Tic tac toe
-
-Play tic-tac-toe against an AI that plays optimally.
-AI concept: Minimax Algorithm.
-
-<!-- Project code: -->
-Youtube demo: https://youtu.be/W979_duHrC8
-
-##  1. Knowledge
-
-Deductive reasoning.
-
-### 1.a. Knights
-
-A program to solve logic puzzles.
-AI concept: Propositional Logic.
-
-<!-- Project code: -->
-Youtube demo: https://youtu.be/GzSLLLYX2U0
-
-### 1.b. Minesweeper
-
-Play minesweeper or let the AI play for you.
-AI concept: Propositional Logic.
+<table>
+    <thead>
+        <tr>
+            <th>Theme</th>
+            <th>Project</th>
+            <th>Description</th>
+            <th>AI concept</th>
+            <th>Demo</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=2>Search</td>
+            <td><a href="./0-search/0a-degrees">Degrees</a></td>
+            <td>Discover it how many "degress of separation" apart two actors are.</td>
+            <td>Breadth First Search</td>
+            <td><a href="https://youtu.be/Wy-XiPI1OCM">🔗</a></td>
+        </tr>
+        <tr>
+            <td><a href="./0-search/0b-tictactoe">Tic tac toe</a></td>
+            <td>Play tic-tac-toe against an AI that plays optimally.</td>
+            <td>Minimax Algorithm</td>
+            <td><a href="https://youtu.be/W979_duHrC8">🔗</a></td>
+        </tr>
+        <tr>
+            <td rowspan=2>Knowledge</td>
+            <!-- deductive reasoning -->
+            <td><a href="./1-knowledge/1a-knights">Knights</a></td>
+            <td>A program to solve logic puzzles.</td>
+            <td>Propositional Logic</td>
+            <td><a href="https://youtu.be/GzSLLLYX2U0">🔗</a></td>
+        </tr>
+        <tr>
+            <td><a href="./1-knowledge/1b-minesweeper">Minesweeper</a></td>
+            <td>Play minesweeper or let the AI play for you.</td>
+            <td>Propositional Logic</td>
+            <td><a href="https://youtu.be/3C4Ld6IsHY0">🔗</a></td>
+        </tr>
+        <!-- <tr>
+            <td rowspan=2>Uncertainty</td>
+            probabilistic models
+        </tr>
+        <tr>
+        </tr> -->
+    </tbody>
+</table>
